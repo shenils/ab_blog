@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chill Zone</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/sample/</link>
+    <atom:link href="http://yourdomain.com/sample/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 29 Oct 2015 14:48:55 +0100</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2015 14:48:55 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Welcome To Alphabeats</title>
+        <description>&lt;p&gt;Hello. My name is Shenil, and I am the founder of Alphabeats. We aim to help uncover the many talented artists living amongst us and help them become popular. In our case, we focus on musicians. The idea is as follows:&lt;/p&gt;
+
+&lt;p&gt;Alphabeats allows independent and unsigned musicians to raise money against the earnings of a song’s digital income. The digital income includes proceeds from popular streaming channels such as Spotify, Apple Music, Tidal and Deezer.&lt;/p&gt;
+
+&lt;p&gt;“Equity crowdfunding” is the technical term used to describe this business model. I like to think of Alphabeats as a crowdsourced record label with no strings attached. By this, I’m referring to the fact that artists raise money on a per song basis, which has the following implications for the artist and the potential investors:&lt;/p&gt;
+
+&lt;p&gt;Artist&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Artists do not have to put all of their songs on the platform, or share income of newer songs with investors&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The funding request will be of smaller amounts, allowing most fans to take part in investing&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Artists do not have a long term commitment with their investors&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Potential Investors&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Investors do not need to rely on the artist producing new work, nor does the quality of other work have a direct impact on that particular song’s performance.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Investors’ benefits are tied only to the song that they invest in, making it easier to decide the value of their investment.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The cost of investing is much lower, making the experience more about discovering great music&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Who is it for?&lt;/p&gt;
+
+&lt;p&gt;If you are a musician, you should consider using Alphabeats if you are unsigned or independent by choice. If you are an unsigned artist, use the power of fans’ social media to gain popularity to help you eventually sign with a label. Alternatively, you may decide to remain independent with the bigger fan base.&lt;/p&gt;
+
+&lt;p&gt;Why am I doing this?&lt;/p&gt;
+
+&lt;p&gt;You may wonder what my motivation for this project is, and why focus on uncovering talent in music. Am I musically talented? Am I dating a musician? Do I spend hours looking for new music and take pride in discovering early stage artists?&lt;/p&gt;
+
+&lt;p&gt;The answer is none of the above. I’m not musically talented and nor am I dating a musician (at this moment). I do have a Facebook group with 5 others where we share new music (dominantly rap), but my friends usually (always) do a better job than I do.&lt;/p&gt;
+
+&lt;p&gt;I was once presented the question “How can we help discover talented artists” in an extracurricular activity at Boston University (BU), and this question stuck to me. Furthermore, in my finance classes at BU, we often mentioned “art” as an asset class. However, we always reached the conclusion that valuing art is a challenge, which may be the reason the average Joe doesn’t invest in it – this conclusion always got me thinking. I chose music in particular because this form of art is integrated into most entertainment, but the current environment makes it very difficult for new entrants to make it big.&lt;/p&gt;
+
+&lt;p&gt;One day it hit me. If we can motivate people outside an artist’s circle to share the artist’s song, the song can get close to 100 plays from a new crowd. This can lead to a viral effect. Investing money in return for money is, in my opinion, the most suitable motivation tool because it can be done without movement of goods or people (unlike merchandise and concerts). In other words, promising concert tickets in a Boston venue wouldn’t mean much to a fan in Japan but giving them an income opportunity can be beneficial regardless of geographical location.&lt;/p&gt;
+
+&lt;p&gt;How does it work?&lt;/p&gt;
+
+&lt;p&gt;Now that I’ve touched upon what our aim and idea is, and why I’m doing this, here are the steps of the business model so you can understand how it works:&lt;/p&gt;
+
+&lt;p&gt;Step 1: The musician submits a song through Alphabeats. We put the song on major streaming services through our partner aggregator. Once the song is approved and uploaded, the artist can make an investment request, asking for money in return for a portion of the song’s earnings.&lt;/p&gt;
+
+&lt;p&gt;Step 2: Fans of the song can invest in it, giving them a claim of the song’s income. This motivates them to share the song to others (from their preferred streaming service). As more people download or stream the song, the artist and the song’s investors will receive higher payouts and the song will climb ranks in the well known streaming platforms.&lt;/p&gt;
+
+&lt;p&gt;Step 3: Soon the song’s payouts will exceed the amount the investor gave, giving them an income opportunity. Alternatively, the investor can sell their claim of income of the song to other investors on the Alphabeats marketplace. More importantly, the song will be exposed to a wider audience in the process, and create more fans for the future!&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 22 Oct 2015 00:00:00 +0200</pubDate>
+        <link>http://yourdomain.com/sample/2015/10/22/Welcome-to-Alphabeats.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/sample/2015/10/22/Welcome-to-Alphabeats.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 06 Sep 2015 18:15:03 +0200</pubDate>
+        <link>http://yourdomain.com/sample/jekyll/update/2015/09/06/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/sample/jekyll/update/2015/09/06/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
